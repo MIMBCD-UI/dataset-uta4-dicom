@@ -1,18 +1,18 @@
-<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta4-rates/web/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta4-dicom/web/index.html'" />
 
 # UTA4: Medical Imaging DICOM Files Dataset
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-rates/blob/master/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/dataset-uta4-rates?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-rates/commits/master)
-[![HitCount](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-rates.svg)](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-rates)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-dicom/blob/master/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/dataset-uta4-dicom?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-dicom/commits/master)
+[![HitCount](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-dicom.svg)](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-dicom)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we present our severity *rates* ([BIRADS](https://en.wikipedia.org/wiki/BI-RADS)) of clinicians while diagnosing several patients from our [User Tests and Analysis 4 (UTA4)](https://github.com/MIMBCD-UI/meta/wiki/User-Research#test-4-single-modality-vs-multi-modality-) study. Here, we provide a *dataset* for the measurements of severity *rates* ([BIRADS](https://en.wikipedia.org/wiki/BI-RADS)) concerning the patient diagnostic. Results were analyzed and interpreted from our [Statistical Analysis](https://mimbcd-ui.github.io/statistical-analysis/) charts. The user tests were made in clinical institutions, where clinicians diagnose several patients for a **Single-Modality** *vs* **Multi-Modality** comparison. For example, in these tests, we used both [`prototype-single-modality`](https://github.com/mida-project/prototype-single-modality) and [`prototype-multu-modality`](https://github.com/mida-project/prototype-multi-modality) repositories for the comparison. On the same hand, the hereby *dataset* represents the pieces of information of both [BreastScreening](https://BreastScreening.github.io) and [MIDA](https://mida-project.github.io) projects. These projects are research projects that deal with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). From a developed User Interface (UI) and *framework*, these deep networks will incorporate [several datasets](https://github.com/MIMBCD-UI/meta/wiki/Datasets) in different modes. For more information about the available *datasets* please follow the [Datasets](https://github.com/MIMBCD-UI/meta/wiki/Datasets) page on the [Wiki](https://github.com/MIMBCD-UI/meta/wiki) of the [`meta`](https://github.com/MIMBCD-UI/meta) information repository. Last but not least, you can find further information on the [Wiki](https://github.com/MIMBCD-UI/dataset-uta4-rates/wiki) in this repository. We also have several demos to see in our [YouTube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw), please follow us.
+Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we present our medical imaging [DICOM](https://en.wikipedia.org/wiki/DICOM) files of patients from our [User Tests and Analysis 4 (UTA4)](https://github.com/MIMBCD-UI/meta/wiki/User-Research#test-4-single-modality-vs-multi-modality-) study. Here, we provide a *dataset* of the used medical images during the [UTA4](https://github.com/MIMBCD-UI/meta/wiki/User-Research#test-4-single-modality-vs-multi-modality-) tasks. This repository and respective *dataset* should be paired with the [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates) repository *dataset*. Results were analyzed and interpreted on our [Statistical Analysis](https://mimbcd-ui.github.io/statistical-analysis/) charts. The user tests were made in clinical institutions, where clinicians diagnose several patients for a **Single-Modality** *vs* **Multi-Modality** comparison. For example, in these tests, we used both [`prototype-single-modality`](https://github.com/mida-project/prototype-single-modality) and [`prototype-multu-modality`](https://github.com/mida-project/prototype-multi-modality) repositories for the comparison. On the same hand, the hereby *dataset* represents the pieces of information of both [BreastScreening](https://BreastScreening.github.io) and [MIDA](https://mida-project.github.io) projects. These projects are research projects that deal with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). From a developed User Interface (UI) and *framework*, these deep networks will incorporate [several datasets](https://github.com/MIMBCD-UI/meta/wiki/Datasets) in different modes. For more information about the available *datasets* please follow the [Datasets](https://github.com/MIMBCD-UI/meta/wiki/Datasets) page on the [Wiki](https://github.com/MIMBCD-UI/meta/wiki) of the [`meta`](https://github.com/MIMBCD-UI/meta) information repository. Last but not least, you can find further information on the [Wiki](https://github.com/MIMBCD-UI/dataset-uta4-dicom/wiki) in this repository. We also have several demos to see in our [YouTube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw), please follow us.
 
 ## Citing
 
@@ -67,7 +67,7 @@ At this point, the only way to install this repository is manual. Eventually, th
 Nonetheless, this kind of installation is as simple as cloning this repository. Virtually all Git and GitHub version control tools are capable of doing that. Through the console, we can use the command below, but other ways are also fine.
 
 ```bash
-git clone https://github.com/MIMBCD-UI/dataset-uta4-rates.git
+git clone https://github.com/MIMBCD-UI/dataset-uta4-dicom.git
 ```
 
 Optionally, the module/directory can be installed into the designated Python interpreter by moving it into the site-packages directory at the respective Python directory.
@@ -96,7 +96,7 @@ This project exists thanks to all the people who [contribute](CONTRIBUTING.md). 
 
 ### Issuer
 
-Either as something that seems missing or any need for support, just open a [new issue](https://github.com/MIMBCD-UI/dataset-uta4-rates/issues/new). Regardless of being a simple request or a fully-structured feature, we will do our best to understand them and, eventually, solve them.
+Either as something that seems missing or any need for support, just open a [new issue](https://github.com/MIMBCD-UI/dataset-uta4-dicom/issues/new). Regardless of being a simple request or a fully-structured feature, we will do our best to understand them and, eventually, solve them.
 
 ### Developer
 
@@ -140,7 +140,7 @@ Copyright &copy; 2020 [Instituto Superior Técnico](http://tecnico.ulisboa.pt/)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-The [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
+The [`dataset-uta4-dicom`](https://github.com/MIMBCD-UI/dataset-uta4-dicom) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
 
 ### Team
 
