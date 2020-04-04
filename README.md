@@ -1,18 +1,18 @@
-<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/repo-template-datasets/web/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta4-rates/web/index.html'" />
 
 # UTA4: Medical Imaging DICOM Files Dataset
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/blob/master/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/repo-template-datasets?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/commits/master)
-[![HitCount](http://hits.dwyl.io/MIMBCD-UI/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-rates/blob/master/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/dataset-uta4-rates?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-rates/commits/master)
+[![HitCount](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-rates.svg)](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-rates)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we aim to provide a template repository for *datasets*. The repository was developed by a community of people under the [opprDev](https://dev.oppr.io/) Team from [oppr](https://oppr.io/). This template will be used in [BreastScreening](https://breastscreening.github.io/), [MIDA](https://mida-project.github.io/) and [MIMBCD-UI](https://mimbcd-ui.github.io/) projects. This repository is complementary to the [`repo-template-datasets`](https://github.com/opprDev/repo-template-datasets) repository of [opprDev](https://github.com/opprDev) GitHub organization. The sampling [`overview.csv`](dataset/overview.csv) file on the [`dataset/`](dataset/) folder was extrated from the [CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images) *dataset*.
+Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we present our severity *rates* ([BIRADS](https://en.wikipedia.org/wiki/BI-RADS)) of clinicians while diagnosing several patients from our [User Tests and Analysis 4 (UTA4)](https://github.com/MIMBCD-UI/meta/wiki/User-Research#test-4-single-modality-vs-multi-modality-) study. Here, we provide a *dataset* for the measurements of severity *rates* ([BIRADS](https://en.wikipedia.org/wiki/BI-RADS)) concerning the patient diagnostic. Results were analyzed and interpreted from our [Statistical Analysis](https://mimbcd-ui.github.io/statistical-analysis/) charts. The user tests were made in clinical institutions, where clinicians diagnose several patients for a **Single-Modality** *vs* **Multi-Modality** comparison. For example, in these tests, we used both [`prototype-single-modality`](https://github.com/mida-project/prototype-single-modality) and [`prototype-multu-modality`](https://github.com/mida-project/prototype-multi-modality) repositories for the comparison. On the same hand, the hereby *dataset* represents the pieces of information of both [BreastScreening](https://BreastScreening.github.io) and [MIDA](https://mida-project.github.io) projects. These projects are research projects that deal with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). From a developed User Interface (UI) and *framework*, these deep networks will incorporate [several datasets](https://github.com/MIMBCD-UI/meta/wiki/Datasets) in different modes. For more information about the available *datasets* please follow the [Datasets](https://github.com/MIMBCD-UI/meta/wiki/Datasets) page on the [Wiki](https://github.com/MIMBCD-UI/meta/wiki) of the [`meta`](https://github.com/MIMBCD-UI/meta) information repository. Last but not least, you can find further information on the [Wiki](https://github.com/MIMBCD-UI/dataset-uta4-rates/wiki) in this repository. We also have several demos to see in our [YouTube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw), please follow us.
 
 ## Citing
 
@@ -67,7 +67,7 @@ At this point, the only way to install this repository is manual. Eventually, th
 Nonetheless, this kind of installation is as simple as cloning this repository. Virtually all Git and GitHub version control tools are capable of doing that. Through the console, we can use the command below, but other ways are also fine.
 
 ```bash
-git clone https://github.com/MIMBCD-UI/repo-template-datasets.git
+git clone https://github.com/MIMBCD-UI/dataset-uta4-rates.git
 ```
 
 Optionally, the module/directory can be installed into the designated Python interpreter by moving it into the site-packages directory at the respective Python directory.
@@ -96,7 +96,7 @@ This project exists thanks to all the people who [contribute](CONTRIBUTING.md). 
 
 ### Issuer
 
-Either as something that seems missing or any need for support, just open a [new issue](https://github.com/opprDev/repo-template-datasets/issues/new). Regardless of being a simple request or a fully-structured feature, we will do our best to understand them and, eventually, solve them.
+Either as something that seems missing or any need for support, just open a [new issue](https://github.com/MIMBCD-UI/dataset-uta4-rates/issues/new). Regardless of being a simple request or a fully-structured feature, we will do our best to understand them and, eventually, solve them.
 
 ### Developer
 
@@ -118,6 +118,8 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates)
 
+- [`dataset-uta4-dicom`](https://github.com/MIMBCD-UI/dataset-uta4-dicom)
+
 - [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
 
 - [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
@@ -126,9 +128,11 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates)
 
+- [`statistical-analysis`](https://github.com/MIMBCD-UI/statistical-analysis)
+
 ### Dataset Resources
 
-To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI).
+To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI). For the purpose, two main resources [`uta4-sm-vs-mm-sheets`](https://www.kaggle.com/MIMBCD-UI/uta4-sm-vs-mm-sheets) and [`uta4-sm-vs-mm-sheets-nameless`](https://www.kaggle.com/MIMBCD-UI/uta4-sm-vs-mm-sheets-nameless) are published in this platform.
 
 ### License & Copyright
 
@@ -136,7 +140,7 @@ Copyright &copy; 2020 [Instituto Superior Técnico](http://tecnico.ulisboa.pt/)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-The [`repo-template-datasets`](https://github.com/MIMBCD-UI/repo-template-datasets) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
+The [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
 
 ### Team
 
@@ -146,18 +150,19 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 * Francisco Maria Calisto [ [Website](http://www.franciscocalisto.me/) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/) ]
 
-* Hugo Lencastre [ [ResearchGate](https://www.researchgate.net/profile/Hugo_Lencastre) ]
+* Nuno Nunes [ [Research Gate](https://www.researchgate.net/profile/Nuno_Nunes2) ]
 
-* Nádia Mourão [ [ResearchGate](https://www.researchgate.net/profile/Nadia_Mourao) ]
+* Jacinto C. Nascimento [ [Research Gate](https://www.researchgate.net/profile/Jacinto_Nascimento) ]
 
-#### Participants
+#### Promoters
 
+* Hugo Lencastre
+* Nádia Mourão
+* Bruno Dias
 * Bruno Oliveira
 * Luís Ribeiro Gomes
 * Carlos Santiago
-* Jacinto C. Nascimento
 * Pedro Miraldo
-* Nuno Nunes
 
 #### Acknowledgements
 
