@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/repo-template-datasets/web/index.html'" />
 
-# Datasets Repository Template
+# UTA4: Medical Imaging DICOM Files Dataset
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
