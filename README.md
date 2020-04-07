@@ -162,7 +162,6 @@ Our team brings everything together sharing ideas and the same purpose, developi
 * Bruno Oliveira
 * Luís Ribeiro Gomes
 * Carlos Santiago
-* Pedro Miraldo
 
 #### Acknowledgements
 
