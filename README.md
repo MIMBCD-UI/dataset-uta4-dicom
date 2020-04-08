@@ -16,8 +16,6 @@ Several *datasets* are fostering innovation in higher-level functions for everyo
 
 ## Citing
 
-[![DOI](https://zenodo.org/badge/252470291.svg?style=flat-square)](https://zenodo.org/badge/latestdoi/252470291)
-
 We kindly ask **scientific works and studies** that make use of the repository to cite it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the repository to warn us about this use.
 
 You can cite our work using the following BibTeX entry:
