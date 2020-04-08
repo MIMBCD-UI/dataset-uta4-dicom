@@ -23,13 +23,13 @@ We kindly ask **scientific works and studies** that make use of the repository t
 You can cite our work using the following BibTeX entry:
 
 ```
-@misc{https://doi.org/10.5281/zenodo.3738763,
-  doi = {10.5281/ZENODO.3738763},
-  url = {https://zenodo.org/record/3738763},
-  author = {Calisto,  Francisco Maria},
-  title = {opprDev/repo-template-datasets: v0.1.1-alpha},
-  publisher = {Zenodo},
-  year = {2020}
+@misc{calisto2020breastscreening,
+    title={BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis},
+    author={Francisco Maria Calisto and Nuno Jardim Nunes and Jacinto Carlos Nascimento},
+    year={2020},
+    eprint={2004.03500},
+    archivePrefix={arXiv},
+    primaryClass={cs.HC}
 }
 ```
 
