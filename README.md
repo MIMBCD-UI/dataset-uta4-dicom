@@ -22,12 +22,17 @@ You can cite our work using the following BibTeX entry:
 
 ```
 @misc{calisto2020breastscreening,
-    title={BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis},
-    author={Francisco Maria Calisto and Nuno Jardim Nunes and Jacinto Carlos Nascimento},
-    year={2020},
-    eprint={2004.03500},
-    archivePrefix={arXiv},
-    primaryClass={cs.HC}
+  doi={10.13140/RG.2.2.28548.27523},
+  url={https://doi.org/10.13140/RG.2.2.28548.27523},
+  title={BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis},
+  author={Francisco Maria Calisto and Nuno Jardim Nunes and Jacinto Carlos Nascimento},
+  language = {en},
+  year={2020},
+  eprint={2004.03500},
+  archivePrefix={arXiv},
+  primaryClass={cs.HC},
+  publisher={ResearchGate},
+  institution={Instituto Superior T\'{e}cnico}
 }
 ```
 
