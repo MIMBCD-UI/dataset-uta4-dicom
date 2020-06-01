@@ -113,6 +113,8 @@ The current information will summarize important items of this repository. In th
 
 The following list, represents the set of related repositories for the presented one:
 
+- [`avi-2020-short-paper`](https://github.com/MIMBCD-UI/avi-2020-short-paper)
+
 - [`dataset-uta4-sus`](https://github.com/MIMBCD-UI/dataset-uta4-sus)
 
 - [`dataset-uta4-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx)
